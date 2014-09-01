@@ -6,3 +6,4 @@ upload.php: this is the php script file where logic is written to upload the fil
 -create upload folder in the same directory all the uploaded files will be seen in that folder
 -you can upload only pdf files
 //updated using git bash
+//updated using git ui
