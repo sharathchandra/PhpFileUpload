@@ -8,3 +8,4 @@ upload.php: this is the php script file where logic is written to upload the fil
 //updated using git bash
 //updated using git ui
 //updated again using git bash
+//update using right click
